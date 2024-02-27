@@ -1,5 +1,5 @@
 # ProjectRepo
-##Initial Ideas for the Project include:
+## Initial Ideas for the Project include:
 
 ~Python Text to Speech and Vice Versa
 https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/
